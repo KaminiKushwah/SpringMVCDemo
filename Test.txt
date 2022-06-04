@@ -10,3 +10,6 @@ want to add this line as a part of file in another branch
 This is my final add to newbranch
 
 This is a statement from new branch file.
+
+Let's do the merge with newBranch file....yipeeeee
+
