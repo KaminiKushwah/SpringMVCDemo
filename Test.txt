@@ -4,3 +4,7 @@ Created for Learning purpose
 This is a new line I have added
 
 I need to do some operations.
+
+want to add this line as a part of file in another branch 
+
+This is my final add to newbranch
