@@ -8,3 +8,5 @@ I need to do some operations.
 want to add this line as a part of file in another branch 
 
 This is my final add to newbranch
+
+This is a statement from new branch file.
